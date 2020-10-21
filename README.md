@@ -7,6 +7,6 @@ Este repositorio contiene varios ejemplos de música generada empleando _deep le
 
 * En la carpeta `midi` están los archivos MIDI generados empleando una representación muy simplificada de las notas.
 
-* En la carpeta `performance` están los archivos MIDI generados empleando la codificación que emplea Performance RNN. Los archivos que tienen el sufijo `_train` se han generado empleando como semilla el comienzo de alcuna pieza del conjunto de entrenamiento.
+* En la carpeta `performance` están los archivos MIDI generados empleando la codificación que emplea Performance RNN. Los archivos que tienen el sufijo `_train` se han generado empleando como semilla el comienzo de alguna pieza del conjunto de entrenamiento.
 
-* En la carpeta `wavenet` se pueden encontrar archivos de 1 segunde duración generados en cada _epoch_ durante el entrenamiento además de un archivo de un minuto de duración generado al final.
+* En la carpeta `wavenet` se pueden encontrar archivos de 1 segundo de duración generados en cada _epoch_ durante el entrenamiento además de un archivo de un minuto de duración generado al final.
